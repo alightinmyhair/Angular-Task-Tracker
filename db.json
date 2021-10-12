@@ -4,13 +4,13 @@
       "id": 4,
       "text": "Coding",
       "day": "July 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 5,
       "text": "Coding & Studying",
       "day": "July 7th at 12:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 6,
