@@ -50,6 +50,7 @@ body {
 
 .form-control {
   margin: 20px 0;
+  /* padding: 30px; */
 }
 
 .form-control label {
